@@ -1,0 +1,52 @@
+!SESSION 2012-09-24 17:03:16.952 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_35
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/lahiru07/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/lahiru07/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2012-09-24 17:04:08.860
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui 4 4 2012-09-24 17:10:07.364
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2012-10-24 19:20:09.298 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_37
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/lahiru07/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -data /Users/lahiru07/Documents/workspace/android attempt/quotes -keyring /Users/lahiru07/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2012-10-24 19:20:22.035
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui 4 4 2012-10-24 19:20:42.479
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2012-11-03 00:29:44.610 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_37
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/lahiru07/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -data /Users/lahiru07/Documents/workspace/android attempt/quotes -keyring /Users/lahiru07/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2012-11-03 00:29:52.255
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui 4 4 2012-11-03 00:29:58.402
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2012-11-19 08:49:09.781 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_37
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/lahiru07/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -data /Users/lahiru07/Documents/workspace/android attempt/quotes -keyring /Users/lahiru07/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2012-11-19 08:49:25.070
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui 4 4 2012-11-19 08:49:33.085
+!MESSAGE Invalid preference page path: XML Syntax

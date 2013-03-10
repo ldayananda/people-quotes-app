@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quotes_string">Quotes</string>
+    <string name="app_name">Quotes 4 U</string>
+    <string name="minds_string">Minds</string>
+    <string name="creativity_string">Creativity</string>
+    <string name="imagination_string">Imagination</string>
+    <string name="love_string">Love</string>
+    <string name="hate_string">Hate</string>
+    <string name="go_back_string">Go back to Quotes</string>
+    
+</resources>

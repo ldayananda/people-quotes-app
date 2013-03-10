@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hate_author">- Buddha</string>
+    <string name="imagination_author">- Albert Einstein</string>
+    <string name="love_author">- Linkin Park</string>
+    <string name="minds_author">- Thomas Dewar</string>
+    <string name="creativity_author">- Scott Adams</string>
+    
+</resources>

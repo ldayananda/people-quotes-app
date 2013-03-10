@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/quotes"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/quotes_string"
+        android:textColor="#FFFF"
+        android:textSize="50dp" />
+
+    <Button
+        android:id="@+id/minds_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_weight="1"
+        android:textSize="30dp"
+        android:text="@string/minds_string"
+        android:onClick="startMinds"
+        android:clickable="true" />
+
+    <Button
+        android:id="@+id/imagination_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_weight="1"
+        android:textSize="30dp"
+        android:text="@string/imagination_string"
+        android:onClick="startImagination" 
+        android:clickable="true" />
+
+    <Button
+        android:id="@+id/hate_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_weight="1"
+        android:textSize="30dp"
+        android:text="@string/hate_string"
+        android:onClick="startHate"
+        android:clickable="true" />
+
+    <Button
+        android:id="@+id/creativity_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_weight="1"
+        android:textSize="30dp"
+        android:text="@string/creativity_string"
+        android:onClick="startCreativity" 
+        android:clickable="true" />
+
+    <Button
+        android:id="@+id/love_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:textSize="30dp"
+        android:text="@string/love_string"
+        android:onClick="startLove"
+        android:clickable="true" />
+
+</LinearLayout>

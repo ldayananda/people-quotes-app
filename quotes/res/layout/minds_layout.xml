@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/minds_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_horizontal"
+        android:paddingBottom="20dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="20dp" 
+        android:layout_margin="10dp">
+        
+        <Button
+            android:id="@+id/minds_back_button"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:onClick= "startBack"
+            android:text="@string/go_back_string"
+            android:textColor="#FE22"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/minds_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/minds_contents"
+            android:textSize="40dp" 
+            />
+
+        <TextView
+            android:id="@+id/minds_quote_author"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:text="@string/minds_author"
+            android:textSize="30dp"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    </FrameLayout>
+
+</LinearLayout>

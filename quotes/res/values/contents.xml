@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="minds_contents">&quot;Minds are like parachutes; they only function when open.&quot;</string>
+    <string name="love_contents">&quot;When life leaves us blind, love keeps us kind.&quot;</string>
+    <string name="hate_contents">&quot;Hate is not overcome by hate. By love alone 'tis quelled&quot;</string>
+    <string name="creativity_contents">&quot;Creativity is making mistakes. Art is knowing which ones to keep.&quot;</string>
+    <string name="imagination_contents">&quot;Imagination is more important than knowledge.&quot;</string>
+
+</resources>
