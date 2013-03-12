@@ -36,39 +36,40 @@ public class QuotesActivity extends Activity {
     }
     
     public void startMinds(View view){
-    	Intent intent = new Intent(QuotesActivity.this, DisplayMinds.class);
+    	Intent intent = new Intent(this, DisplayMinds.class);
     	
     	/*
-    	EditText editText = (EditText) findViewById(R.string.parachute_contents);
-    	String quoteBlock = editText.getText().toString();
+    	View layout = findViewById(R.layout.quote_layout);
+    	EditText quotes = (EditText) layout.findViewById(R.id.quote_location);
+    	String quoteBlock = quotes.getText().toString();
     	
-    	EditText editText2 = (EditText) findViewById(R.string.Minds);
-    	String authorIs = editText2.getText().toString();
+    	EditText author = (EditText) layout.findViewById(R.id.author_location);
+    	String authorIs = author.getText().toString();
     	
-    	intent.putExtras(textBundle(quoteBlock,authorIs));
+    	textBundle(quoteBlock,authorIs);
     	*/
     	startActivity(intent);
     }
     
     
     public void startImagination(View view){
-    	Intent intent = new Intent(QuotesActivity.this, DisplayImagination.class);
+    	Intent intent = new Intent(this, DisplayImagination.class);
     	startActivity(intent);
     }
     
     	
     public void startHate(View view){
-    	Intent intent = new Intent(QuotesActivity.this, DisplayHate.class);
+    	Intent intent = new Intent(this, DisplayHate.class);
     	startActivity(intent);
     }
     
     public void startCreativity(View view){
-    	Intent intent = new Intent(QuotesActivity.this, DisplayCreativity.class);
+    	Intent intent = new Intent(this, DisplayCreativity.class);
     	startActivity(intent);
     }
     
     public void startLove(View view){
-    	Intent intent = new Intent(QuotesActivity.this, DisplayLove.class);
+    	Intent intent = new Intent(this, DisplayLove.class);
     	startActivity(intent);
     }
     
